@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/start9ine" target="blank"><img src="https://img.shields.io/twitter/follow/start9ine?logo=twitter&style=for-the-badge" alt="start9ine" /></a> </p>
 
-- 🔭 I’m currently working on **MyDoggo**
+- 🔭 I’m currently working on **Tress(Less)**
 
 - 🌱 I’m currently learning **Node.js React.js**
 
