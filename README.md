@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Tress(Less)**
 
-- 🌱 I’m currently learning **Node.js React.js**
+- 🌱 I’m currently learning **Node.js React.js Elixir**
 
 - 👯 I’m looking to collaborate on **Any open source projects**
 
